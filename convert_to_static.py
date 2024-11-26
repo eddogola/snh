@@ -151,7 +151,7 @@ static_html = f'''
                 <div>
                     <span class="number">5,382</span><br>
                     <span class="text">total messages exchanged</span><br>
-                    <span class="text">during this first</span><br>
+                    <span class="text">over the lifetime of the</span><br>
                     <span class="text">relationship</span>
                 </div>
             </div>
